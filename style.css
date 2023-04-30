@@ -1,0 +1,11 @@
+#H1{
+    font-family: 'Syne Mono', monospace;
+    font-size: 35; 
+    color: maroon;  
+}
+.body{
+    background-color: gold;
+}
+.Em{
+    border-radius: 60%;
+}
